@@ -1,0 +1,196 @@
+{
+    "questions": [
+        {
+            "questionNumber": 1,
+            "questionText": "How important is people analytics in helping your organization meet its overall goals?",
+            "answers": [
+                {
+                    "id": 1,
+                    "text": "Not important"
+                },
+                {
+                    "id": 2,
+                    "text": "Somewhat important"
+                },
+                {
+                    "id": 3,
+                    "text": "Important"
+                },
+                {
+                    "id": 4,
+                    "text": "Very Important"
+                },
+                {
+                    "id": 5,
+                    "text": "Extremely Important"
+                }
+            ]
+        },
+        {
+            "questionNumber": 2,
+            "questionText": "Does your organization plan to expand its people analytics program?",
+            "answers": [
+                {
+                    "id": 6,
+                    "text": "Yes"
+                },
+                {
+                    "id": 7,
+                    "text": "No"
+                }
+            ]
+        },
+        {
+            "questionNumber": 3,
+            "questionText": "Choose the option that best describes the level of access managers have to people analytics:",
+            "answers": [
+                {
+                    "id": 8,
+                    "text": "No access"
+                },
+                {
+                    "id": 9,
+                    "text": "Basic table reports"
+                },
+                {
+                    "id": 10,
+                    "text": "Analytics by request"
+                },
+                {
+                    "id": 11,
+                    "text": "Self-service analytics"
+                }
+            ]
+        },
+        {
+            "questionNumber": 4,
+            "questionText": "Do all departments consistently define measures, such as turnover and time-to-fill?",
+            "answers": [
+                {
+                    "id": 12,
+                    "text": "Yes"
+                },
+                {
+                    "id": 13,
+                    "text": "No"
+                }
+            ]
+        },
+        {
+            "questionNumber": 5,
+            "questionText": "Does each business area have an assigned HR business partner?",
+            "answers": [
+                {
+                    "id": 14,
+                    "text": "Yes"
+                },
+                {
+                    "id": 15,
+                    "text": "No"
+                }
+            ]
+        },
+        {
+            "questionNumber": 6,
+            "questionText": "Do you have a head of people analytics or a dedicated people analytics team?",
+            "answers": [
+                {
+                    "id": 16,
+                    "text": "Yes"
+                },
+                {
+                    "id": 17,
+                    "text": "No"
+                }
+            ]
+        },
+        {
+            "questionNumber": 7,
+            "questionText": "Do you have a dedicated workforce planning team?",
+            "answers": [
+                {
+                    "id": 18,
+                    "text": "Yes"
+                },
+                {
+                    "id": 19,
+                    "text": "No"
+                }
+            ]
+        },
+        {
+            "questionNumber": 8,
+            "questionText": "Is your data stored in a people analytics solution, enterprise data warehouse, or data lake?",
+            "answers": [
+                {
+                    "id": 20,
+                    "text": "Yes"
+                },
+                {
+                    "id": 21,
+                    "text": "No"
+                }
+            ]
+        },
+        {
+            "questionNumber": 9,
+            "questionText": "Can you access predictive information about your workforce, such as predicted turnover for next year?",
+            "answers": [
+                {
+                    "id": 22,
+                    "text": "Yes"
+                },
+                {
+                    "id": 23,
+                    "text": "No"
+                }
+            ]
+        },
+        {
+            "questionNumber": 10,
+            "questionText": "How long does it take to prepare a headcount report today?",
+            "answers": [
+                {
+                    "id": 24,
+                    "text": "A few minutes"
+                },
+                {
+                    "id": 25,
+                    "text": "A few hours"
+                },
+                {
+                    "id": 26,
+                    "text": "A few days"
+                }
+            ]
+        },
+        {
+            "questionNumber": 11,
+            "questionText": "Can you visualize people data trends over time, such as changes in turnover in the last two years?",
+            "answers": [
+                {
+                    "id": 27,
+                    "text": "Yes"
+                },
+                {
+                    "id": 28,
+                    "text": "No"
+                }
+            ]
+        },
+        {
+            "questionNumber": 12,
+            "questionText": "Does your organization update people-related reports and analytics at least monthly?",
+            "answers": [
+                {
+                    "id": 29,
+                    "text": "Yes"
+                },
+                {
+                    "id": 30,
+                    "text": "No"
+                }
+            ]
+        }
+    ]
+}
